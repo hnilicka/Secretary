@@ -32,11 +32,21 @@ Zbývající schopnost pracovat na projektu v hodinách: 13+12= 25h
 
 
 # Obecný scénář aplikace
+Tajemník ústavu musí naplánovat výuku. Musí zařídit výuku.  K tomu by měl posloužit nový software. Tento software má řadu údajů (informací), které se mají uchovávat, spravovat. Rámcově je možno je rozdělit do 4-5 modelů, neboli datových tříd. Tyto datové třídy není úkolem programátora naplnit, naplní je uživatel. Nutné naplnit jen příklady 2 zaměstnance, 2 předměty, 2 studenti. Úkolem  vývojáře sw je datové třídy: 
 
+Určit které jsou potřebné, 
+Specifikovat jejich pole 
+Stanovit specifikace polí (formát a délka) 
+Provázat jednotlivé pole a třídy 
+Stanovit kontrolní mechanismy 
 
 
 # Questions 
+Organizační 
+Kde je záznam přednášky z 13.2.2021 
 
+Programové 
+Co je to "tajemník má zařídit výuku". Definuj.  
 
 # Technologie, které chcete použít.
 
