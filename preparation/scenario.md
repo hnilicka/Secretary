@@ -28,6 +28,7 @@ Zbývající schopnost pracovat na projektu v hodinách: 13+12= 25h
 20.3. Znovuposlech první hodiny tj. zadání. 
 21.3. Sepsat datovou mapu - slovně s požadavkami na formát datového prvku
 22.3. Nastudovat video TimCo (24h) - do bodu, kdy budou definované formáty datových polí. 
+27.3. Na papír nakreslete návrhy budoucích formulářů, vyfoťte je a přidejte do adresáře Preparation.
 
 
 # Obecný scénář aplikace
