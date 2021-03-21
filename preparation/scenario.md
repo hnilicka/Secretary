@@ -41,12 +41,20 @@ Provázat jednotlivé pole a třídy
 Stanovit kontrolní mechanismy 
 
 
-# Questions 
+# Questions / To do list / Problemhelp
 Organizační 
 Kde je záznam přednášky z 13.2.2021 
+? Je nutne propojit GitHub s VisualStudiem? Nefunguje mi viz. ToDo/Problem help.
 
 Programové 
 Co je to "tajemník má zařídit výuku". Definuj.  
+
+ToDo/Problem help:
+Nejde propojit VisualStudio 2019 s GitHubem. Hlasi errory jak verze od Timco tak oficialni od Microsoft. 
+https://www.youtube.com/watch?v=9ITVx4VvkcI
+?
+Datová hodnota. Nastudovat. 
+Navrhnout formulare – nacrtek papir. 
 
 # Technologie, které chcete použít.
 
