@@ -57,7 +57,8 @@ Datová hodnota. Nastudovat.
 Navrhnout formulare – nacrtek papir. 
 
 # Technologie, které chcete použít.
+Nejraději bych použil MS Excel s vytvořenými formuáláři a makry. Celá aplikace jde takto vytvořit automatizovaně v Excelu.
+Samozřejmě je možné vytvořit i celou datovou strukturu v MS Access a vytvořit i formuláře. Zde bych musel trochu dostudovat. 
+Obojí řešení jsou promě časově jednodušší, než dostudovávat C# a xml.
 
-# Nadpis
-## Podnadpis
-### PodPodnadpis
+Takto budu muset použít MS Visual Studio 2019. Nyní řeším problém, že se mi nedaří propojit VisualStudio 2019 s GitHubem.
