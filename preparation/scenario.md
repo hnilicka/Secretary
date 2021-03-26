@@ -25,8 +25,8 @@ Zbývající schopnost pracovat na projektu v hodinách: 13+12= 25h
 ## Ohrožena schopnost dokončit projekt včas. 
 
 ## Postup - plán
-20.3. Znovuposlech první hodiny tj. zadání. 
-21.3. Sepsat datovou mapu - slovně s požadavkami na formát datového prvku
+20.3. Znovuposlech první hodiny tj. zadání. _ Hotovo
+21.3. Sepsat datovou mapu - slovně s požadavkami na formát datového prvku _ Hotovo
 22.3. Nastudovat video TimCo (24h) - do bodu, kdy budou definované formáty datových polí. 
 27.3. Na papír nakreslete návrhy budoucích formulářů, vyfoťte je a přidejte do adresáře Preparation.
 
@@ -44,16 +44,12 @@ Stanovit kontrolní mechanismy
 # Questions / To do list / Problemhelp
 Organizační 
 Kde je záznam přednášky z 13.2.2021 
-? Je nutne propojit GitHub s VisualStudiem? Nefunguje mi viz. ToDo/Problem help.
+
 
 Programové 
-Co je to "tajemník má zařídit výuku". Definuj.  
 
 ToDo/Problem help:
-Nejde propojit VisualStudio 2019 s GitHubem. Hlasi errory jak verze od Timco tak oficialni od Microsoft. 
-https://www.youtube.com/watch?v=9ITVx4VvkcI
-?
-Datová hodnota. Nastudovat. 
+Datová hodnota. Nastudovat. Kde a jak?
 Navrhnout formulare – nacrtek papir. 
 
 # Technologie, které chcete použít.
