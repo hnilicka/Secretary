@@ -25,11 +25,12 @@ namespace SecretaryLibrary
         public string EmailSoukromy { get; set; }
         // toto nebude vlastnost ale metoda = metoda je privat
         private int PracovniBodyBezEn;
+        // toto nebude vlastnost ale metoda = metoda je privat
         private int PracovniBody;
         bool Doktorand = false;
         // 0 az 1; 0 je zamestnanec na dohodu nebo doktorand; jinak procento coz umoznuje double
         public double Uvazek { get; set; }
-        private List<PracovniStitekModel> Predmet { get; set; } = new List<PracovniStitekModel>();
+        public List<PracovniStitekModel> Predmet { get; set; } = new List<PracovniStitekModel>();
 
 
     }

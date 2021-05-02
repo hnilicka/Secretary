@@ -29,7 +29,7 @@ namespace SecretaryLibrary
         //  defaultne je pocet 24 studentu, velmi casto 12 a u kombinovaneho studia muze byt 0
         public int VelikostTrida { get; set; }
 
-        private List<SkupinaModel> Skupina { get; set; } = new List<SkupinaModel>();
+        public List<SkupinaModel> Skupina { get; set; } = new List<SkupinaModel>();
 
 
 
