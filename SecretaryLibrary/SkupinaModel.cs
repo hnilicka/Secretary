@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace SecretaryLibrary
 {
     public class SkupinaModel
-    {
+    {   // TimCorrey TimeStamp: (HH:MM 01:50)
         // datova knihovna Studijni skupiny; Studijni skupna se rozdeluje do pracovnich stitku.
         // Pocet studentu je nutne manualne vlozit nejsou automaticky napocteny ze seznanu List<Predmet>
 
