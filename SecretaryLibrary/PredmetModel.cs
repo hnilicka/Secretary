@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SecretaryLibrary
 {
-    class PredmetModel
+    public class PredmetModel
     {
         // datova knihovna pro model Studijni Plany neboli Predmet; 
         // upresnit textem
@@ -28,6 +28,7 @@ namespace SecretaryLibrary
         public enum Jazyk { cz, en }
         //  defaultne je pocet 24 studentu, velmi casto 12 a u kombinovaneho studia muze byt 0
         public int VelikostTrida { get; set; }
+
         private List<SkupinaModel> Skupina { get; set; } = new List<SkupinaModel>();
 
 
