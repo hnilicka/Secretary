@@ -22,7 +22,7 @@ namespace SecretaryLibrary
         public int HodSeminar { get; set; }
         // Zakonceni muze byt nasledujici: kl (klasifikovany zapocet); z, zk zde v kodu "zzk" (zapocet a zkouska);
         // z (zapocet), zk (zkouška)
-        public enum Zakonceni { kl, z, zk, zzk }
+        public enum Zakonceni { z, kl, zk, zzk }
         // je v pdf studijni plan ale nevyzadovano dle datamap
         // public int PocetKreditu { get; set; }
         public enum Jazyk { cz, en }
