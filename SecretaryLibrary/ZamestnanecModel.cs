@@ -23,6 +23,10 @@ namespace SecretaryLibrary
        }
         public string EmailPracovni { get; set; }
         public string EmailSoukromy { get; set; }
+        public string TelefonPracovni { get; set;}
+        public string TelefonSoukromy { get; set; }
+        //(0 zaměstnanec na dohodu, nebo doktorand, jinak procento)
+        public double Uvazek { get; set; }
         // toto nebude vlastnost ale metoda = metoda je privat
         private int PracovniBodyBezEn;
         // toto nebude vlastnost ale metoda = metoda je privat

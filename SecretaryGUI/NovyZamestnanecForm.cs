@@ -10,12 +10,21 @@ using System.Windows.Forms;
 
 namespace SecretaryGUI
 {
-    public partial class CreateZamestnanecForm : Form
+    public partial class headerLabel : Form
     {
-        public CreateZamestnanecForm()
+        public headerLabel()
         {
             InitializeComponent();
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void JmenoTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
